@@ -41,7 +41,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chess-game.git
+   git clone https://github.com/priyanshuk6395/chess-game.git
    cd chess-game
    ```
 
@@ -51,13 +51,7 @@ Ensure you have the following installed:
    npm install
    ```
 
-3. Create a `.env` file and define the `PORT` (optional):
-
-   ```env
-   PORT=3000
-   ```
-
-4. Start the development server:
+3. Start the development server:
 
    ```bash
    npm start
