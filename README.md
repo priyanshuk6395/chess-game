@@ -87,6 +87,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Screenshot
 
-![Chess Game Screenshot](\public\images\screenshot.png)
+![Chess Game Screenshot](public/images/screenshot.png)
 
 ---
